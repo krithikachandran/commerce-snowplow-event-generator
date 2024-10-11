@@ -54,7 +54,9 @@ object AllContexts {
       SegmentScreen,
       SessionContext,
       UserData,
-      VimeoMeta
+      VimeoMeta,
+      //new
+      AdobeCommerceCart
     )
 
   val all: List[SelfDescribingJsonGen] =
